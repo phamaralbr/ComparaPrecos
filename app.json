@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "compara",
-    "slug": "compara",
+    "name": "Compara Preço",
+    "slug": "compara-preco",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/iconCopy.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashCopy.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,9 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/adaptive-iconCopy.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.phamaral.ComparaPreco"
     },
     "web": {
       "favicon": "./assets/favicon.png"
